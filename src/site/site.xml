@@ -28,7 +28,7 @@
     <breadcrumbs>
       <item name="wcm.io" href="https://wcm.io" />
       <item name="Testing" href="https://wcm.io/testing/" />
-      <item name="WCM Mock Helper" href="https://wcm.io/testing/wcm-io-mock/wcm/" />
+      <item name="Site API Processor Mock Helper" href="https://wcm.io/testing/wcm-io-mock/site-api/processor/" />
     </breadcrumbs>
   </body>
 

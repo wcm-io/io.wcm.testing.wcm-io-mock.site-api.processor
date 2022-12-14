@@ -1,8 +1,8 @@
-## About WCM Mock Helper
+## About Site API Processor Mock Helper
 
-Helps setting up mock environment for [wcm.io WCM][wcmio-wcm] Commons.
+Helps setting up mock environment for [wcm.io Site API Processor][wcmio-siteapi-processor].
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.wcm/io.wcm.testing.wcm-io-mock.wcm)](https://repo1.maven.org/maven2/io/wcm/io.wcm.testing.wcm-io-mock.wcm/)
+[![Maven Central](https://img.shields.io/maven-central/v/io.wcm/io.wcm.testing.wcm-io-mock.site-api.processor)](https://repo1.maven.org/maven2/io/wcm/io.wcm.testing.wcm-io-mock.site-api.processor/)
 
 
 ### Documentation
@@ -13,16 +13,14 @@ Helps setting up mock environment for [wcm.io WCM][wcmio-wcm] Commons.
 
 ### AEM Version Support Matrix
 
-|WCM Mock Helper version |AEM version supported
-|------------------------|----------------------
-|1.3.x or higher         |AEM 6.5.7+, AEMaaCS
-|1.1.x - 1.2.x           |AEM 6.4+, AEMaaCS
-|1.0.x                   |AEM 6.3+
+|Site API Processor Mock Helper version |AEM version supported
+|---------------------------------------|----------------------
+|1.0.0 or higher                        |AEM 6.5.7+, AEMaaCS
 
 
 ### GitHub Repository
 
-Sources: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.wcm
+Sources: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.site-api.processor
 
 
-[wcmio-wcm]: https://wcm.io/wcm/
+[wcmio-siteapi-processor]: https://wcm.io/site-api/processor/
