@@ -7,7 +7,7 @@
 Helps setting up mock environment for wcm.io Site API Processor.
 
 Documentation: https://wcm.io/testing/wcm-io-mock/site-api/processor/<br/>
-Issues: https://wcm-io.atlassian.net/browse/WTES<br/>
+Issues: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.site-api.processor/issues<br/>
 Wiki: https://wcm-io.atlassian.net/wiki/<br/>
 Continuous Integration: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.site-api.processor/actions<br/>
 Commercial support: https://wcm.io/commercial-support.html
