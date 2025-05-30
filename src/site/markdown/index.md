@@ -15,7 +15,7 @@ Helps setting up mock environment for [wcm.io Site API Processor][wcmio-siteapi-
 
 |Site API Processor Mock Helper version |AEM version supported
 |---------------------------------------|----------------------
-|1.0.0 or higher                        |AEM 6.5.7+, AEMaaCS
+|1.1.0 or higher                        |AEM 6.5.17+, AEMaaCS
 
 
 ### GitHub Repository
