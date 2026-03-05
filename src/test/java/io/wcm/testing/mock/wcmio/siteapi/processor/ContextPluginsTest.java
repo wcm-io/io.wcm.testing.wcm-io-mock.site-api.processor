@@ -36,8 +36,8 @@ public class ContextPluginsTest {
 
   @Rule
   public AemContext context = new AemContextBuilder()
-      .plugin(CACONFIG)
-      .plugin(WCMIO_SLING, WCMIO_SITEAPI_PROCESSOR).build();
+    .plugin(CACONFIG)
+    .plugin(WCMIO_SLING, WCMIO_SITEAPI_PROCESSOR).build();
 
   @Test
   public void testServices() {

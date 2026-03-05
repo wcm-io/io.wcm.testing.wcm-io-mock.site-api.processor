@@ -45,6 +45,7 @@ public final class ContextPlugins {
    * Context plugin for wcm.io WCM Site API.
    */
   public static final @NotNull ContextPlugin<AemContextImpl> WCMIO_SITEAPI_PROCESSOR = new AbstractContextPlugin<AemContextImpl>() {
+
     @Override
     public void afterSetUp(@NotNull AemContextImpl context) throws Exception {
       setUp(context);

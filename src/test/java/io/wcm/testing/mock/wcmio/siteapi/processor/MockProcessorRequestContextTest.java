@@ -39,8 +39,8 @@ public class MockProcessorRequestContextTest {
 
   @Rule
   public AemContext context = new AemContextBuilder()
-      .plugin(CACONFIG)
-      .plugin(WCMIO_SLING, WCMIO_SITEAPI_PROCESSOR).build();
+    .plugin(CACONFIG)
+    .plugin(WCMIO_SLING, WCMIO_SITEAPI_PROCESSOR).build();
 
   @Before
   public void setUp() {
